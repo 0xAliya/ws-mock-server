@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.js"
+  },
+  "author": "",
+  "license": "MTI",
+  "dependencies": {
+    "vite": "^3.0.9",
+    "ws-mock-server": "file:.yalc/ws-mock-server"
+  }
+}

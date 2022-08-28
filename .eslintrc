@@ -1,0 +1,6 @@
+{
+    "extends": "@antfu",
+    "rules": {
+        "linebreak-style":["error", "unix"]
+    }
+}
